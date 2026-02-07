@@ -1,4 +1,4 @@
-# Maps4Study — Versão React
+# Pesquisador de Mapas Mentais
 
 Aplicação React + TypeScript para buscar e baixar mapas mentais com integração com a API backend.
 
